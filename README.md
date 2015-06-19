@@ -15,9 +15,9 @@ I hope you enjoy.
 The code is commented with the activity.
 buuuuut....
 The program:
-Loads the each data file.
-Merges the data together.
-Adds the Subject ID.
-Calcuates the mean value for each subject and activity.
+- Loads the each data file.
+- Merges the data together.
+- Adds the Subject ID.
+- Calcuates the mean value for each subject and activity.
 
 Nathan
