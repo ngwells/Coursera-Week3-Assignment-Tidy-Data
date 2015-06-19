@@ -11,4 +11,4 @@ I think the most complicated function i use is aggreate or a reg ex expression.
 All tables could be easy read in with data.table.
 
 The code is commented with the activity.
-I hope you enjoy
+I hope you enjoy.
