@@ -10,5 +10,15 @@ There is no fancy functions to do the heavy work.
 I think the most complicated function i use is aggreate or a reg ex expression.
 All tables could be easy read in with data.table.
 
-The code is commented with the activity.
+
 I hope you enjoy.
+
+The code is commented with the activity.
+buuuuut....
+The program:
+Loads the each data file.
+Merges the data together.
+Adds the Subject ID.
+Calcuates the mean value for each subject and activity.
+
+Nathan
